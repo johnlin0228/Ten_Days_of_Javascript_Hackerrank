@@ -1,2 +1,3 @@
-# Ten_Days_of_Javascript_Hackerrank
-About solution to 10 Days of JS Hackerrank. 
+# About 
+
+Solutions to hackerrank: [10 Days of JS](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
